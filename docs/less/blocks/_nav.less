@@ -1,0 +1,37 @@
+.header-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-menu li {
+    margin-right: 80px;
+
+    &:last-child {
+        margin-right: 0;
+    }
+}
+
+.menu-item {
+    position: relative;
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+    z-index: 2;   
+}
+
+.menu-item::after {
+    content: '';
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    width: 0;
+    height: 5px;
+    background-color: yellow;
+    transition: .5s;
+    z-index: -1;
+}
+
+.menu-item:hover::after {
+    width: 100%;
+}
