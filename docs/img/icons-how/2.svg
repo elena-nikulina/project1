@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 40" width="39" height="40">
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiMyMzFmMjA7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5wcmVzZW50YXRpb24tY2hhcnQ8L3RpdGxlPjxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTIxLjQ3LDI4LjMybC00LTIuMjFzMC0uMDcsMC0uMTFWMjVoLTN2MXMwLC4wNywwLC4xMWwtNCwyLjIxQTEuNSwxLjUsMCwwLDAsMTIsMzAuOTRsNC0yLjIzLDQsMi4yM2ExLjUsMS41LDAsMCwwLDEuNDYtMi42MlpNMywyMWEyLDIsMCwwLDAsMiwySDI3YTIsMiwwLDAsMCwyLTJWN0gzWm00Ljk0LTYuMDYsMy0zYTEuNSwxLjUsMCwwLDEsMi4xMiwwTDE3LDE1Ljg4bDQuOTQtNC45NGExLjUsMS41LDAsMCwxLDIuMTIsMi4xMmwtNiw2YTEuNSwxLjUsMCwwLDEtMi4xMiwwTDEyLDE1LjEybC0xLjk0LDEuOTRhMS41LDEuNSwwLDEsMS0yLjEyLTIuMTJaTTMwLjcyLDEuNzRBMS4zNiwxLjM2LDAsMCwwLDI5LjUxLDFoLTI3YTEuMzYsMS4zNiwwLDAsMC0xLjIxLjc0LDMsMywwLDAsMCwwLDIuNTJBMS4zNiwxLjM2LDAsMCwwLDIuNDksNWgyN2ExLjM2LDEuMzYsMCwwLDAsMS4yMS0uNzRBMywzLDAsMCwwLDMwLjcyLDEuNzRaIi8+PC9nPjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="КАК Я РАБОТАЮ">
+		<g id="ЛИНИЯ И ИКОНКИ">
+			<g id="Иконка 2">
+				<use id="presentation-chart" href="#img1" transform="matrix(1.283,0,0,1.306,-1,-1)"/>
+			</g>
+		</g>
+	</g>
+</svg>
